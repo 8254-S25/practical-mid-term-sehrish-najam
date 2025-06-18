@@ -1,0 +1,2 @@
+sehrishnajam:x:1001:1001::/home/sehrishnajam:/bin/bash
+mysql:x:111:123:MySQL Server,,,:/nonexistent:/bin/false
